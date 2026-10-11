@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-karen--jcv.github.io-8b5cf6?style=for-the-badge&logoColor=white)](https://karen-jcv.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karen_Camacho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-camacho-verastegui)
-[![Email](https://img.shields.io/badge/Email-Contactar-10b981?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:karen.verastegui22@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Contactar-10b981?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:karenverastegui22@outlook.com)
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 💼 Perfil & Enfoque
+### Perfil & Enfoque
 
 Especializada en cerrar la brecha entre la experimentación analítica y los productos de datos en producción:
 - **Machine Learning Predictivo**: Modelos supervisados de retención (*churn* a 90 días), calibración probabilística y explicabilidad rigurosa mediante **SHAP**.
@@ -24,7 +24,7 @@ Especializada en cerrar la brecha entre la experimentación analítica y los pro
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :---: |
@@ -34,7 +34,7 @@ Especializada en cerrar la brecha entre la experimentación analítica y los pro
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 ```text
 ├── Lenguajes & Core        :: Python 3.x · SQL · Git & GitHub · Bash
@@ -45,6 +45,15 @@ Especializada en cerrar la brecha entre la experimentación analítica y los pro
 ```
 
 ---
+
+<div align="center">
+
+[![Web](https://img.shields.io/badge/Explorar_Portfolio_Completo-karen--jcv.github.io-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://karen-jcv.github.io)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-camacho-verastegui)
+
+</div>
+
 
 <div align="center">
 
