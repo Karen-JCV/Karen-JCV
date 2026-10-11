@@ -53,12 +53,3 @@ Especializada en cerrar la brecha entre la experimentación analítica y los pro
 [![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-camacho-verastegui)
 
 </div>
-
-
-<div align="center">
-
-[![Web](https://img.shields.io/badge/Explorar_Portfolio_Completo-karen--jcv.github.io-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://karen-jcv.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-camacho-verastegui)
-
-</div>
